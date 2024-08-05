@@ -1,9 +1,7 @@
 {
-    "short_name": "BombCryptoTon",
-    "name": "Bomb Crypto Ton",
-    "start_url": "/",
-    "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "#000000"
+  "url": "https://bombcryptoton-3e570f824d4b.herokuapp.com/",
+  "name": "Bomb Crypto Ton",
+  "iconUrl": "https://bombcryptoton-3e570f824d4b.herokuapp.com/static/images/icon.png",
+  "termsOfUseUrl": "https://bombcryptoton-3e570f824d4b.herokuapp.com/terms-of-use",
+  "privacyPolicyUrl": "https://bombcryptoton-3e570f824d4b.herokuapp.com/privacy-policy"
 }
-
